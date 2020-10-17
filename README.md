@@ -3,6 +3,9 @@ Lapres praktikum jarkom modul 1 kelompok D11
 ## Nomor 1
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
+-Pertama, kita filter menggunakan "http.host==testing.mekanis.me"
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1a.jpg" >
+
 ## Nomor 2
 Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
@@ -47,20 +50,8 @@ Cari username dan password ketika login FTP pada localhost!
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/9b.PNG">
 
 ## Nomor 10
-Cari file .pdf di wireshark lalu download dan buka file tersebut!
-clue: "25 50 44 46" 
-
-- Untuk mencari file .pdf kita menggunakan frame contains "application/pdf"
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10a.PNG">
-
-- Setelah menemukan hasil dari filter , di follow stream tcp lalu pada show and save data kita ubah menjadi raw dan setelah itu kita save
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10b.PNG">
-
-- Lalu buka file .pdf yang sudah di save tadi
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10c.PNG">
-
 
 ## Nomor 13
 
-## Nomor 15
+## Nomor !5
 
