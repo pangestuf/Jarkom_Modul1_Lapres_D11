@@ -38,6 +38,13 @@ Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Bu
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/6f.PNG">
 
 ## Nomor 9
+Cari username dan password ketika login FTP pada localhost!
+
+- Untuk mencari username menggunakan ftp.request.command == USER
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/9a.PNG">
+
+- Untuk mencari password menggunakan ftp.request.command == PASS
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/9b.PNG">
 
 ## Nomor 10
 
