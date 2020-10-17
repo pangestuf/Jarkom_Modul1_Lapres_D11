@@ -65,7 +65,12 @@ clue: "25 50 44 46"
 ## Nomor 13
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 
+- Menggunakan command tcp dst port 443
+https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/13.PNG
 
 ## Nomor 15
 Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
+
+- Menggunakan command dst host monta.if.its.ac.id
+https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/15.PNG
 
