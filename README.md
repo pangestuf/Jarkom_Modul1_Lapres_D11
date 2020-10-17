@@ -3,8 +3,11 @@ Lapres praktikum jarkom modul 1 kelompok D11
 ## Nomor 1
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
--Pertama, kita filter menggunakan "http.host==testing.mekanis.me"
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1a.jpg" >
+- Pertama, kita filter menggunakan http.host=="testing.mekanis.me" lalu pilih salah satu paketnya
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1a.JPG" >
+
+- Kemudian, klik kanan, lalu pilih follow, dan klik TCP stream. Web server yang digunakan adalah nginx seperti yang terlihat pada gambar
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1.JPG" >
 
 ## Nomor 2
 Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
