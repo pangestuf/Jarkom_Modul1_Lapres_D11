@@ -13,6 +13,7 @@ Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2a.PNG">
 
 -Setelah didownload lalu buka file .jpg dan akan terlihat gambarnya
+
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2b.PNG">
 
 ## Nomor 6
@@ -42,5 +43,5 @@ https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/6f.PNG
 
 ## Nomor 13
 
-# Nomor !5
+## Nomor !5
 
