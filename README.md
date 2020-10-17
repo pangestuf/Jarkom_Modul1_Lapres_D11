@@ -3,11 +3,8 @@ Lapres praktikum jarkom modul 1 kelompok D11
 ## Nomor 1
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
-- Pertama, kita filter menggunakan "http.host==testing.mekanis.me". Lalu, pilih salah satu paket nya
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1a.JPG" >
-
-- Kemudian, klik kanan pada paket, klik follow, kemudian pilih TCP Stream. Web server yang digunakan adalah nginx seperti yang terlihat pada gambar
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1.JPG" >
+-Pertama, kita filter menggunakan "http.host==testing.mekanis.me"
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/nomor1a.jpg" >
 
 ## Nomor 2
 Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
@@ -53,8 +50,22 @@ Cari username dan password ketika login FTP pada localhost!
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/9b.PNG">
 
 ## Nomor 10
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46" 
+
+- Untuk mencari file .pdf kita menggunakan perintah frame contains "application/pdf"
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10a.PNG">
+
+- di follow stream tcp lalu pada show and save data kita ubah menjadi raw dan setelah itu kita save .pdf
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10b.PNG">
+
+- Ini adalah isi dari Nomer 10.pdf
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/10c.PNG">
 
 ## Nomor 13
+Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 
-## Nomor !5
+
+## Nomor 15
+Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
 
