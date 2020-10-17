@@ -1,5 +1,9 @@
 # Jarkom_Modul1_Lapres_D11
 Lapres praktikum jarkom modul 1 kelompok D11
+
+Anggota Kelompok:
+- M. Farras Pangestu - 05111840000134
+- Rasyid Ridlo W. - 05111840000135
 ## Nomor 1
 Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
@@ -81,10 +85,10 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 Cari objek apa saja yang didownload (RETR) dari kneksi FTP dengan Microsoft FTP Service!
 
 - Gunakan syntax frame contains "Microsoft FTP", kemudian kita mendapatkan ip source dari Microsoft FTP yang akan kita gunakan di filter selanjutnya
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/8.PNG">
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/8.png">
 
 - Kemudian pada display filter ketik ip.addr==198.246.117.106 && ftp.request.command==RETR
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/8b.PNG">
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/8b.png">
 
 ## Nomor 9
 Cari username dan password ketika login FTP pada localhost!
@@ -112,13 +116,13 @@ clue: "25 50 44 46"
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 
 - Aktifkan filezilla server, disini kami menggunakan XAMPP
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11a.PNG">
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11a.png">
 
 - Lalu masuk ke filezilla client, masukan host dan username kemudian klik quickconnect, disini kami mencoba mengupload file latihan.ipynb
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11b.PNG">
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11b.png">
 
 - Kemudian menggunakan wireshark, pada capture filter masukan ketik port 21 dan pilih adapter for loopback traffic capture
-<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11c.PNG">
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/11c.png">
 
 ## Nomor 12
 Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
