@@ -10,10 +10,10 @@ Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 <img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2.png" >
 
 - Kedua ketik pada text filter "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
-https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2a.PNG
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2a.PNG">
 
 -Setelah didownload lalu buka file .jpg dan akan terlihat gambarnya
-https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2b.PNG
+<img src="https://github.com/pangestuf/Jarkom_Modul1_Lapres_D11/blob/main/Gambar/2b.PNG">
 
 ## Nomor 6
 Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
